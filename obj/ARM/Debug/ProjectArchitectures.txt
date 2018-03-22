@@ -1,0 +1,1 @@
+C:\Users\fyezool\Desktop\HackWknd-AgroIoT-master\HackWknd-AgroIoT-master\HelloRPi\HelloRPi.csproj;arm
